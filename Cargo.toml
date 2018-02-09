@@ -1,0 +1,10 @@
+[package]
+name = "response_time"
+version = "0.1.0"
+authors = ["Leo Wei <leoweixiaowang@gmail.com>"]
+
+[dependencies]
+time = "*"
+
+[dependencies.iron]
+version = "*"
